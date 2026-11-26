@@ -62,9 +62,3 @@ ylabel('Magnitude in dB');
 title('Frequency Response of FIR LPF using Rectangular Window');
 
 
-
-# OUTPUT
-<img width="752" height="662" alt="image" src="https://github.com/user-attachments/assets/c497d22a-cc08-420b-af26-e9d87785dee8" />
-
-# RESULT
-Thus design of low pass FIR digital filter waveforms were plotted and output was verified. 
